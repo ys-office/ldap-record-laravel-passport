@@ -1,0 +1,11 @@
+dn: uid=user01,ou=People,dc=example,dc=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: user01
+cn: User 01
+sn: user
+o: People
+userPassword:{SSHA}BEvnPi37Dk/QpNKTOTChMdl/+7TrM5LW 
